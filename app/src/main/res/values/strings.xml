@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">2017 YGS-LYS Sayacı</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="quit_dig_confirmation">Dikkat</string>
+    <string name="quit_dig_confirmation_msg">Uygulamadan çıkmak istediğinizden emin misiniz ?</string>
+
+</resources>
